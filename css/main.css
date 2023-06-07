@@ -1496,8 +1496,8 @@ pre code {
 }
 .reading-progress-bar {
   --progress: 0;
-  background: #37c6c0;
-  height: 10px;
+  background: #ed556a;
+  height: 3px;
   position: fixed;
   z-index: 50;
   width: var(--progress);
@@ -2502,4 +2502,8 @@ header.header {
   .comments {
     padding: 10px 12px;
   }
+}
+.site-brand-container {
+  background: url("/images/xs.png");
+  background-size: cover;
 }
