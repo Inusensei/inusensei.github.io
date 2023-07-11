@@ -391,7 +391,7 @@ reading_progress:
   reversed: false
   #color: "#37c6c0"
   color: "#ed556a"
-  height: 3px
+  height: 6px
 
 # Bookmark Support
 bookmark:
