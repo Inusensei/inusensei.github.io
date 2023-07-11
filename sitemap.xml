@@ -4,7 +4,7 @@
   <url>
     <loc>https://inusensei.github.io/zh-TW.json</loc>
     
-    <lastmod>2023-06-07</lastmod>
+    <lastmod>2023-07-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://inusensei.github.io/images/webmanifest_pu.json</loc>
     
-    <lastmod>2023-06-07</lastmod>
+    <lastmod>2023-07-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,7 @@
 
   <url>
     <loc>https://inusensei.github.io/</loc>
-    <lastmod>2023-06-07</lastmod>
+    <lastmod>2023-07-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,7 +57,7 @@
   
   <url>
     <loc>https://inusensei.github.io/tags/%E8%A9%A9%E8%A9%9E/</loc>
-    <lastmod>2023-06-07</lastmod>
+    <lastmod>2023-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -66,7 +66,7 @@
   
   <url>
     <loc>https://inusensei.github.io/categories/%E4%B8%94%E5%BE%9E%E8%A9%A9%E4%B8%AD%E5%B0%8B%E5%B9%BD/</loc>
-    <lastmod>2023-06-07</lastmod>
+    <lastmod>2023-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
